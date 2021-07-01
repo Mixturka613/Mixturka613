@@ -13,5 +13,5 @@ I live in the Russian Internet network. I also love math and generally want to k
 
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=1c78c0)![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)![](https://img.shields.io/badge/React%20Native-informational?style=flat-square&logo=react&logoColor=36dff8&color=2d415c)![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=ffffff&color=007D7D)
 
-[My Youtube](https://www.youtube.com/channel/UCUuTqs5h31_hbo0hi9mqsXQ)
+📹[My Youtube](https://www.youtube.com/channel/UCUuTqs5h31_hbo0hi9mqsXQ)
 <!-- ![hippo](https://www.ponedelnikmag.com/users/16692/radi_gibrotov/01.gif) -->
