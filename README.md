@@ -12,6 +12,4 @@ My name is Vladislav, I am a frontend developer striving for the title of fullst
 📹[My Youtube](https://www.youtube.com/channel/UCUuTqs5h31_hbo0hi9mqsXQ)
 📹[My Twitch](https://www.twitch.tv/mixturka613)
 
----
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=root%40mixturka%3A~%24sudo+apt+update)](https://git.io/typing-svg)
