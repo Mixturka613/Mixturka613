@@ -1,5 +1,5 @@
 
-# Hello world 👋
+# Hi, I`m [Mixturka](https://www.youtube.com/channel/UCUuTqs5h31_hbo0hi9mqsXQ)
 
 ## 💪 My bio: 
 My name is Vladislav, I\`m a frontend developer, but I am striving for the Full Stack developer title and I\`m 17.
@@ -15,3 +15,5 @@ I live in the Russian Internet network. I also love math and generally want to k
 
 📹[My Youtube](https://www.youtube.com/channel/UCUuTqs5h31_hbo0hi9mqsXQ)
 <!-- ![hippo](https://www.ponedelnikmag.com/users/16692/radi_gibrotov/01.gif) -->
+
+
