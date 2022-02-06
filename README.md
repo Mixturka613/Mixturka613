@@ -1,4 +1,4 @@
-![](img/img.png)
+![](header.png)
 My name is Vladislav, I am a frontend developer striving for the title of fullstack
 
 ### :clipboard: Technologies & Tools
