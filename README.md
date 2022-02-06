@@ -1,19 +1,12 @@
-
-# Hi, I`m [Mixturka](https://www.youtube.com/channel/UCUuTqs5h31_hbo0hi9mqsXQ)
-
-## 💪 My bio: 
-My name is Vladislav, I\`m a frontend developer, but I am striving for the Full Stack developer title and I\`m 17.
-I live in the Russian Internet network. I also love math and generally want to know everything. 
+![](img/img.png)
+My name is Vladislav, I am a frontend developer striving for the title of fullstack
 
 ### :clipboard: Technologies & Tools
 
-![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D26)![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=ffffff&color=25A1E1)![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f)![](https://img.shields.io/badge/Node.JS-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=ffffff&color=bc4420)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-### :bookmark_tabs: Technologies I'm working on
-
-![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=1c78c0)![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)![](https://img.shields.io/badge/React%20Native-informational?style=flat-square&logo=react&logoColor=36dff8&color=2d415c)![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=ffffff&color=007D7D)
 
 📹[My Youtube](https://www.youtube.com/channel/UCUuTqs5h31_hbo0hi9mqsXQ)
-<!-- ![hippo](https://www.ponedelnikmag.com/users/16692/radi_gibrotov/01.gif) -->
+📹[My Twitch](https://www.twitch.tv/mixturka613)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=root%40mixturka%3A~%24sudo+apt+update)](https://git.io/typing-svg)
