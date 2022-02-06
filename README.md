@@ -9,6 +9,8 @@ My name is Vladislav, I am a frontend developer striving for the title of fullst
 
 ---
 
+### :alien: Links
+
 📹[My Youtube](https://www.youtube.com/channel/UCUuTqs5h31_hbo0hi9mqsXQ)
 📹[My Twitch](https://www.twitch.tv/mixturka613)
 
