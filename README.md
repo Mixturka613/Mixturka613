@@ -1,6 +1,3 @@
-<iframe src="https://previewer-co23.vercel.app/" width="100%" height="800px" />
-
-  
 My name is Vladislav, I am a frontend developer striving for the title of fullstack
 
 ---
