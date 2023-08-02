@@ -1,4 +1,6 @@
 <iframe src="https://previewer-co23.vercel.app/" width="100%" height="800px" />
+
+  
 My name is Vladislav, I am a frontend developer striving for the title of fullstack
 
 ---
@@ -15,3 +17,4 @@ My name is Vladislav, I am a frontend developer striving for the title of fullst
 📹[My Twitch](https://www.twitch.tv/mixturka613)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=root%40mixturka%3A~%24sudo+apt+update)](https://git.io/typing-svg)
+
